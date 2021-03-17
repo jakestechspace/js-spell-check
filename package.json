@@ -1,0 +1,15 @@
+{
+  "name": "js-spell-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiKey.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}

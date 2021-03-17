@@ -1,0 +1,8 @@
+# never commit credentials
+apiKey.js
+
+# always ignore node modules
+node_modules/
+
+# for mac users
+.DS_Store
